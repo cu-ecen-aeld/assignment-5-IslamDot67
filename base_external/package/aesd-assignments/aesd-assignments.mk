@@ -1,5 +1,5 @@
 AESD_ASSIGNMENTS_VERSION = main
-AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-IslamDot67.git
+AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignment-5-IslamDot67.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 
 define AESD_ASSIGNMENTS_BUILD_CMDS
